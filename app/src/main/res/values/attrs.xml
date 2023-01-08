@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="myCustomBackgroundColor" format="reference|color" />
+    <attr name="myCustomColor1" format="reference|color" />
+    <attr name="myCustomColor2" format="reference|color" />
+</resources>
